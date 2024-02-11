@@ -7,6 +7,8 @@ namespace za\zUsr;
 
 class zUsr {
 	/* Zagata.Authorization */
+	private $za = null;
+	public $n = '';
 
 	/////////////////////////////// 
 	// funcs
